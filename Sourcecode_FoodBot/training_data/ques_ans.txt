@@ -1,0 +1,24 @@
+hi!
+Hey! How can I help you?
+Hi!
+Hey! How can I help you?
+Where is the restaurant address?
+134c Hoang Hoa Tham, Ward 12, Tan Binh District, HCMC.
+What are the restaurant opening hours?
+The restaurant opens at 8am and closes at 11pm.
+Is the restaurant currently empty?
+Yes, it is.
+I want to book an empty table for 2 people?
+What time would you like to book?
+at 9 am
+What time would you like to book?
+at 6 pm.
+Ok. Please give the restaurant more personal information to confirm the reservation?
+Name: Mr.Mickey Phone number:09865123712
+Thank you for your interest in our restaurant. Enjoy your meal!
+What are the menu items in the restaurant?
+you can check this link: http://hoaanvien.com.vn/mon-an/6-thuc-don-do-an-nha-hang-hoa-an-vien
+Is the restaurant food delivered?
+Restaurants with home delivery service: Free delivery within 20km. Over 20km, the shipping fee will be calculated according to the economical delivery fee.
+How to pay for delivery?
+There are two types of payment methods: Firstly, customers can pay in advance through the restaurant's application. Secondly, customers can pay for the goods when they receive the goods to the shipper.
